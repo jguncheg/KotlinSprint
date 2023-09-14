@@ -1,5 +1,9 @@
 package lesson_1
 
 fun main () {
-    println (" Это решение 1 из урока 1 ")
+    var orderCounter: Int = 75
+    val messageToBuyer: String = "Спасибо за покупку, приходите к нам еще!"
+
+    println(messageToBuyer)
+
 }
