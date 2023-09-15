@@ -9,5 +9,4 @@ fun main(){
 
   println(multiply/sum)
 
-
 }
