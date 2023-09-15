@@ -1,14 +1,13 @@
+
 fun main(){
-    val a = 3
-    val b = 4
-    val c = 3
-    val d = 5f
+    val quantity5 = 1f
+    val quantity4 = 1
+    val quantity3 = 2
 
-    println(a+b+c+d/4)
+    val multiply =5*quantity5 + 4*quantity4 + 3*quantity3
+    val sum = quantity5 + quantity4 + quantity3
 
-
-
-
+  println(multiply/sum)
 
 
 }
