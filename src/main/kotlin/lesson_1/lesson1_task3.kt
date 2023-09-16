@@ -1,4 +1,6 @@
+
 fun main () {
+
     val year = "1961"
     var hour = "09"
     var minute = "07"
@@ -12,6 +14,5 @@ fun main () {
     minute = "55"
 
     println("$hour:$minute" )
-
 
 }
