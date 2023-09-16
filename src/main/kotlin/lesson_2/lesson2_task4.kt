@@ -7,5 +7,4 @@ fun main(){
 
    println("Crystal Buff - $crystalBuff")
    println("Iron Buff - $ironBuff")
-
 }
