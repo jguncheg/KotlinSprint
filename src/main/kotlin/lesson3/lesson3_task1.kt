@@ -6,7 +6,7 @@ fun main(){
 
     println("$greetings $userName")
 
-        greetings = "Добрый вечер,"
+    greetings = "Добрый вечер,"
 
     println("$greetings $userName")
 
