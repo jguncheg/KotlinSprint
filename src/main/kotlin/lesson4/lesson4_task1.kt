@@ -1,12 +1,13 @@
-fun main(){
+fun main() {
 
-    val today = 13
-    val tomorrow = 9
-    val compare:Boolean =  allPlaces > today
-    val compare2:Boolean = tomorrow < allPlaces
+    val freeTableToday = 13
+    val freeTableTomorrow = 9
+    val compare: Boolean = ALL_PLACES > freeTableToday
+    val compare2: Boolean = freeTableTomorrow < ALL_PLACES
 
- println("Доступность столиков на сегодня: $compare \nДоступность столиков на завтра: $compare2")
+    println("Доступность столиков на сегодня: $compare \nДоступность столиков на завтра: $compare2")
 
 
 }
-    const val allPlaces = 13
+
+const val ALL_PLACES = 13
