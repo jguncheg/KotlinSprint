@@ -1,4 +1,8 @@
 fun main() {
+
+   // val vinNum = (1..100).random()  Запасной вариант с неизвестными выигрышными числами выпадающими рандомно
+   // val vinNum2 = (1..100).random()
+
     println("Введите число от 1 до 100")
 
     val userNum = readLine()!!.toInt()
