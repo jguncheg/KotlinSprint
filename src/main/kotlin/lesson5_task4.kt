@@ -4,13 +4,15 @@ fun main() {
     val login = readLine()
     if (login == LOGIN) {
         println("Введите пароль")
-    }else{ println("Зарегистрируйтесь")
+    } else {
+        println("Зарегистрируйтесь")
         return
     }
     val password = readLine()
     if (password == PASS) {
         println("Добро пожаловать ")
-    }else{ println("Ошибка")
+    } else {
+        println("Ошибка")
     }
 }
 
