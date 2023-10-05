@@ -1,4 +1,5 @@
 fun main() {
+
     val numberOne = (1..100).random()
     val numberTwo = (1..100).random()
 
@@ -14,4 +15,5 @@ fun main() {
         println("Вы выиграли утешительный приз!")
     else println("Не повезло, попробуйте еще раз.")
     println("Выигрышные числа $numberOne и $numberTwo")
+
 }
