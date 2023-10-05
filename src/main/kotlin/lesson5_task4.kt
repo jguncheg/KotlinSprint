@@ -15,6 +15,5 @@ fun main() {
         println("Ошибка")
     }
 }
-
 const val LOGIN = "Zaphod"
 const val PASS = "PanGalactic"
