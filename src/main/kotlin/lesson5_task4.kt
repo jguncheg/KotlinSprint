@@ -1,5 +1,4 @@
 fun main() {
-
     println("Введите имя пользователя.")
     val login = readLine()
     if (login == LOGIN) {
