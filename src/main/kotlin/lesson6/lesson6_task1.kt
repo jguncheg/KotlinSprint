@@ -1,5 +1,6 @@
 package lesson6
 
+
 fun main() {
     println("Регистрация:\nПридумайте логин")
     val login = readLine()
