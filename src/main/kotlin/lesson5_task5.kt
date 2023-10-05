@@ -1,5 +1,4 @@
 fun main() {
-
     val numberOne = (1..100).random()
     val numberTwo = (1..100).random()
 
