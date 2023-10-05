@@ -14,5 +14,4 @@ fun main() {
         println("Вы выиграли утешительный приз!")
     else println("Не повезло, попробуйте еще раз.")
     println("Выигрышные числа $numberOne и $numberTwo")
-
 }
